@@ -24,5 +24,4 @@ public class list {
 class ArrayList {
 	String name=null;
      //List<String> lst=new ArrayList<String>();
-	
 }
